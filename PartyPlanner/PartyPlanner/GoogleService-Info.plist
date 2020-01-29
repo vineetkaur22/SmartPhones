@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>382005672402-ljlpkqqqdjthij23o5100bv0m9hg2mbs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.382005672402-ljlpkqqqdjthij23o5100bv0m9hg2mbs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCN5JaN3-eWFD6bH-TRNCCGNYWtNyQlA4k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>382005672402</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>northeastern.edu.PartyPlanner</string>
+	<key>PROJECT_ID</key>
+	<string>party-planner-b5f47</string>
+	<key>STORAGE_BUCKET</key>
+	<string>party-planner-b5f47.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:382005672402:ios:8621613efe8f87db82b00b</string>
+	<key>DATABASE_URL</key>
+	<string>https://party-planner-b5f47.firebaseio.com</string>
+</dict>
+</plist>
